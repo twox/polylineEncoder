@@ -1,9 +1,8 @@
 //
 //  PolyLineEncoder.swift
-//  DottedPolyline
 //
 //  Created by Valery on 30.01.2018.
-//  Copyright © 2018 dylanmaryk. All rights reserved.
+//  Copyright © 2018 vd-soft. All rights reserved.
 //
 
 import Foundation
