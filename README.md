@@ -1,2 +1,2 @@
 # polylineEncoder
-Encoder for create encoded polyline og GoogleMaps 
+Swift implementation of the google's polyline algorithm
